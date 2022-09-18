@@ -1,0 +1,83 @@
+
+#CO1{
+    text-align: left;
+    margin-left: 33px;
+    margin-top: -382px;
+
+}
+#CO2{
+    text-align: left;
+    margin-left: 37px;
+}
+#B1{
+    margin-left: -788px;
+    background-color: rgb(94, 6, 138);
+    height: 62px;
+    width: 207px;
+    border-radius: 50px;
+    color: white;
+    border-width: 0px;
+}
+#B1:hover{
+    background-color: rgb(158, 106, 185);
+}
+
+#GB1{
+    margin-left: 128px;
+    margin-top: 20px;
+    border-width: 0px;
+    height: 63px;
+    width: 159px;
+    background-color: rgb(94, 6, 138);
+    border-radius: 30px;
+    color: white;
+}
+#GB1:hover{
+    background-color: white;
+    border-color: rgb(94, 6, 138);
+    color: rgb(94, 6, 138);
+    border-width: 3px;
+}
+
+#G2{
+    background-color: white;
+    margin-top: 41px;
+    margin-left: 131px;
+    width: 1233px;
+}
+#G2:hover{
+    box-shadow: 0px 15px 15px grey;
+}
+#LB{
+    color: rgb(94, 6, 138);
+    border-radius: 30px;
+    width: 215px;
+    height: 65px;
+    margin-left: 635px;
+    margin-top: 61px;
+    border-width: 3px;
+    border-color: rgb(94, 6, 138);
+    background-color: white;
+    margin-bottom: 53px;
+}
+#LB:hover{
+    background-color: rgb(94, 6, 138);
+    color: white;
+}
+#C1{
+    width: 23rem; 
+    margin-left: 136px; 
+    margin-top: 27px;
+}
+#C1:hover{
+    box-shadow: 0px 15px 15px grey;
+}
+#C2:hover{
+    box-shadow: 0px 15px 15px grey;
+}
+#C3:hover{
+    box-shadow: 0px 15px 15px grey;
+}
+body{
+    height: 10000px;
+}
